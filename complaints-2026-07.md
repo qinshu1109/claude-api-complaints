@@ -158,3 +158,34 @@ More in semantic search results.
 3. **"被 Claude 秒封之后：Codex + DeepSeek 低成本替代栈搭建 + 账号环境自查清单"**（承接 @swahz7788、@Miaoooo000、@FutureIdiotH 封号焦虑）→ B站视频
 
 **实际检索覆盖到的最新时间点：** 2026-07-03 15:34 UTC
+
+
+## 2026-07-03（周五）扫描 16 条 | 最新帖时间 16:36 UTC
+
+今日各分类条数统计：费用高 7 / 限额限流 8 / 封号风控 4 / 降智质量 5 / 中转信任 2 / 其他 0
+
+| 信号 | 分类 | 作者/日期 | 原文 | 产品 | 链接 | cozai机会 |
+|------|------|-----------|------|------|------|-----------|
+| 高 | 费用高/限额限流 | @capteeer78210 / 2026-07-03 | "初期无限制推广带来生产力提升，但token消耗导致成本快速失控，甚至超过部分人力支出"（特斯拉每周$200上限、微软取消Claude Code许可、腾讯砍额度） | Claude Code / 企业API | [链接](https://x.com/capteeer78210/status/2072833584004845660) | 是→面向中小团队做"token成本可控的中转/多模型路由"，主打预算封顶+用量看板 |
+| 高 | 费用高/降智质量 | @kwrzhuan1000w / 2026-07-03 | "fable一个月心得；bug极多 ai好像有意想办法烧token…和禁用前比大幅缩水，转用codex了" | Claude Fable 5 | [链接](https://x.com/kwrzhuan1000w/status/2073080070928056579) | 是→承接"Fable烧token又降智"的迁移用户，提供按结果计费/多模型兜底方案 |
+| 高 | 降智质量/限额限流 | @zahareus / 2026-07-03 | "same subscription now yields ~5x less useful work since late June: 8.9M→1.44M tokens, quota draining with zero Opus logs. Same price, less output."（同价更少产出） | Claude Code | [链接](https://x.com/zahareus/status/2073074335883927787) | 是→用透明用量对比切入，主打"用量可审计、不偷偷降智"的中转 |
+| 高 | 封号风控/费用高 | @swahz7788 / 2026-07-03 | "Claude 太高贵了。自从2023年被封号以后就没再用过…折腾VPS和静态IP…刚上去就被秒封。现在Codex+DeepSeek+Antigravity已经够用" | Claude / Claude Code | [链接](https://x.com/swahz7788/status/2073046193979216253) | 是→承接因封号+高价流失的学术/开发者，提供稳定不封号的合规中转入口 |
+| 中 | 限额限流/费用高 | @Newtalkinfo / 2026-07-03 | "同样20美元的会员，claude额度是最少的，真的是随便两个问题就完了，ChatGPT反而能撑很久" | Claude / ChatGPT | [链接](https://x.com/Newtalkinfo/status/2073053057072714086) | 是→针对"Claude额度不经用"痛点，主打同价更高额度的聚合套餐 |
+| 中 | 降智质量/费用高 | @nembal / 2026-07-03 | "this Fable is basically a nerfed version that's pretty much useless and costs so much. crazy how fast i subscribed to codex max plan."（Fable阉割又贵，秒转Codex） | Claude Fable 5 | [链接](https://x.com/nembal/status/2073082195292590482) | 是→承接Fable→Codex迁移潮，提供一键切换与成本对比 |
+| 中 | 限额限流 | @ProfoundMatter / 2026-07-03 | "Fable 5 is a scam. It didn't even finish my prompt before running through the usage limit."（没跑完prompt就限额） | Claude Fable 5 | [链接](https://x.com/ProfoundMatter/status/2073081231890129046) | 是→主打"长任务不中断"的高额度中转，缓解官方限额痛点 |
+| 中 | 费用高 | @noahreeveshq / 2026-07-03 | "Fable's so expensive, I no longer ask Claude Code to center a div. I just ask Cursor"（Fable太贵，简单活改用Cursor） | Claude Fable 5 / Cursor | [链接](https://x.com/noahreeveshq/status/2073080965115871551) | 是→推"按任务难度智能分流"，简单任务走廉价模型省钱 |
+| 中 | 封号风控 | @Miaoooo000 / 2026-07-03 | "claude code无缘无故被封号，是时候转战codex了" | Claude Code | [链接](https://x.com/Miaoooo000/status/2073060658829226400) | 是→承接被封号用户，提供多账号池+自动兜底的稳定通道 |
+| 中 | 降智质量 | @lolieatapple / 2026-07-03 | "今天Codex GPT5.5降智很厉害，一个简单问题反反复复改了好几遍都改不好。和肥波5的对比更加明显了" | Codex / GPT-5.5 | [链接](https://x.com/lolieatapple/status/2072985224448020491) | 是→提供多模型对比+自动切换，降智时无缝切到更强模型 |
+| 中 | 降智质量 | @wuyuxiangX / 2026-07-03 | "本来因为忍受不了cc的opus4.8的降智问题，都没有用cc了" | Claude Code / Opus 4.8 | [链接](https://x.com/wuyuxiangX/status/2072950112318554490) | 是→主打稳定不降智的模型接入，承接对官方降智不满的用户 |
+| 中 | 限额限流 | @Yucheng_9518 / 2026-07-03 | "Claude只要到了限额，直接给你不管是不是还在跑任务，直接给你limit，Codex确实比较厚道" | Claude / Codex | [链接](https://x.com/Yucheng_9518/status/2072832885719970245) | 是→强调"限额平滑降级不中断任务"的中转体验 |
+| 低 | 限额限流 | @mathiiias123 / 2026-07-03 | "Codex fast mode and 5 hour limit makes NO sense…hit the 5h limit 1-2 hours premature"（5小时限额提前触顶，快模式失去意义） | Codex | [链接](https://x.com/mathiiias123/status/2073082018078876046) | 是→提供无5h硬限流的高频调用通道 |
+| 低 | 封号风控 | @dalisoft / 2026-07-03 | "My many Claude account got banned for nothing…Just don't use Claude"（多个账号无故被封） | Claude / Codex | [链接](https://x.com/dalisoft/status/2073077949121630407) | 是→承接被批量封号用户，提供合规稳定的替代接入 |
+| 低 | 封号风控 | @FutureIdiotH / 2026-07-03 | "理由是claude号被封了又要养小google了"（账号被封需重新养号） | Claude | [链接](https://x.com/FutureIdiotH/status/2073049328294224005) | 是→提供免养号、开箱即用的稳定通道 |
+| 低 | 限额限流 | @mee_meeki / 2026-07-03 | "that claude model are showing the api limit and they have 7m to 5m Token"（API额度从7M被砍到5M） | Claude API | [链接](https://x.com/mee_meeki/status/2073082465405825246) | 是→主打额度稳定不缩水的API中转 |
+
+### 今日三个选题
+1. **"Fable 5 又贵又降智，一个月我为什么转投 Codex"——用真实用量数据（8.9M→1.44M token）拆解官方"同价更少产出"** → X长文
+2. **"企业级 AI 成本失控实录：特斯拉每周$200、微软砍Claude Code、腾讯削额度"——中小团队如何用多模型路由+预算封顶自救** → B站视频
+3. **"Claude 封号潮 + 限额不留情：开发者迁移地图"——盘点封号、秒封、限额中断任务的真实案例与稳定替代方案** → X长文 / B站视频
+
+**实际检索覆盖到的最新时间点：** 2026-07-03 16:36 UTC
