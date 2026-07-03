@@ -32,3 +32,26 @@ More in semantic search results.
 **实际检索覆盖到的最新时间点：** 2026-07-03 12:03 UTC左右。
 
 只报可溯源真帖，每条必须有真链接。
+
+## 2026-07-03（周五）扫描 7 条 | 最新帖时间 ~2026-07-03 20:13 CST
+
+今日各分类条数统计：费用高 4 / 限额限流 4 / 封号风控 0 / 中转信任 1 / 其他 0
+
+| 信号 | 分类 | 作者/日期 | 原文 | 产品 | 链接 | cozai机会 |
+|------|------|-----------|------|------|------|-----------|
+| 高 | 限额限流/费用高 | @mydream2025 / 2026-07-03 | 以前都是claude修改代码，然后codex去测试...结果刚刚fable5自己把代码改了，自己跑测试去了，特么的，我额度啊 (Fable5自己跑测试烧掉用户额度) | Fable 5 | https://x.com/mydream2025/status/2073017351533215804 | 是→提供额度监控 + 自动暂停/提醒工具，或更高效的agent workflow优化 |
+| 中 | 费用高 | @defaiscope / 2026-07-03 | Sonnet 5 scores 54% on DeepSWE at $26.40 per task. More expensive than both. Lower accuracy than both. It uses 214k tokens where Fable uses 119k. (Fable 5比其他模型更贵且准确率更低) | Fable 5 / Sonnet | https://x.com/defaiscope/status/2073016981519831268 | 是→成本对比分析工具或智能模型路由服务 |
+| 中 | 限额限流 | @alphinctom / 2026-07-03 | Anthropic pulling Fable 5 from subs... guardrails and rate limits are nerfing it. (Fable 5 rate limits严重限制使用) | Fable 5 | https://x.com/alphinctom/status/2073016673079009417 | 是→绕过限流的稳定中转或优化prompt服务 |
+| 中 | 费用高 | @markszymik / 2026-07-03 | My highest expectation (as a long term paying customer) was to get Fable 5 back. And I'm happy that I can use super-expensive model for much lower price (Fable 5超级贵，用户期待降价) | Fable 5 | https://x.com/markszymik/status/2073016658151481699 | 是→提供更实惠的Fable/Claude访问方案 |
+| 中 | 费用高 | @RMatzkin / 2026-07-03 | Uber gave Claude Code to 5,000 engineers and burned its entire 2026 AI coding budget in 4 months. Token cost scales multiplicatively. (企业大规模使用Claude Code 4个月烧完全年预算) | Claude Code | https://x.com/RMatzkin/status/2073016200976625859 | 是→企业级token成本优化咨询或预算管理系统 |
+| 中 | 限额限流/中转信任 | @ivensliao007 / 2026-07-03 | 出 Claude Max 速刷账号 198 元...由于 Fable5 额度已用光，所以转售 (Fable5额度用光后转售账号) | Fable 5 / Claude Max | https://x.com/ivensliao007/status/2073016198741258613 | 是→提供稳定官方额度或可靠中转服务，避免速刷风险 |
+| 中 | 限额限流 | @0xJoveXu / 2026-07-03 | 但是我还没弄好，CodeX 的额度就用完了 怕是钱还没赚到就花出去一堆钱了 (CodeX额度用完，担心成本) | Codex | https://x.com/0xJoveXu/status/2073015581109076192 | 是→额度实时监控 + 低耗替代方案推荐 |
+
+### 今日三个选题
+1. **Fable 5 自己跑测试烧额度问题**：用户吐槽agent自主执行导致额度快速消耗 → X长文或B站“如何防止AI agent乱烧钱”教程。
+2. **Fable 5 价格贵 + rate limit 双重痛点**：与竞品对比数据 + 用户真实反馈 → B站视频深度评测。
+3. **企业/个人大规模使用下的预算失控**：Uber案例 + 个人用户额度用完案例 → X线程系列“AI编码工具成本控制实战”。
+
+**实际检索覆盖到的最新时间点：** 2026-07-03 20:13 CST
+
+只报可溯源真帖，每条必须有真链接。
