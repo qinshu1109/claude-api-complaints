@@ -131,3 +131,30 @@ More in semantic search results.
 
 **实际检索覆盖到的最新时间点：** 2026-07-03 15:08 UTC
 
+## 2026-07-03（周五）扫描 14 条 | 最新帖时间 15:34 UTC
+
+今日各分类条数统计：费用高 5 / 限额限流 9 / 封号风控 3 / 中转信任 1 / 降智质量 1 / 其他 0
+
+| 信号 | 分类 | 作者/日期 | 原文 | 产品 | 链接 | cozai机会 |
+|------|------|-----------|------|------|------|-----------|
+| 中 | 费用高/限额限流 | @mretsal / 2026-07-03 | "After around 8 hours of using Fable 5, it consumed half of my weekly limit and it built 15% of what we planned…Fable 5 really sucks."（用了约8小时 Fable 5 就吃掉了半个周额度，却只完成了计划的15%，太烂了） | Claude Code / Fable | [链接](https://x.com/mretsal/status/2073066046647325151) | 是→用"长任务成本实测"内容承接：帮用户算 Fable 每周额度能跑多少真实工时，给出 Opus 规划+便宜模型执行的省额度组合 |
+| 中 | 费用高/封号风控 | @swahz7788 / 2026-07-03 | "Claude 太高贵了。自从 2023 年被封号以后，我就没再用过…刚上去就被秒封。现在 Codex + DeepSeek + Antigravity 已经够我…" | Claude / Codex | [链接](https://x.com/swahz7788/status/2073046193979216253) | 是→做"被封号后的低成本替代栈"教程：Codex+DeepSeek 组合成本对比，承接被 Claude 拒之门外的科研/开发用户 |
+| 中 | 限额限流/费用高 | @Newtalkinfo / 2026-07-03 | "同样 20 美元的会员，claude 额度是最少的，真的是随便两个问题就完了，ChatGPT 反而能撑很久" | Claude / ChatGPT | [链接](https://x.com/Newtalkinfo/status/2073053057072714086) | 是→出"同价位额度横评"表格（Claude vs ChatGPT vs 中转），用真实 token 数量化"$20 能问几次" |
+| 中 | 限额限流 | @joshmatz / 2026-07-03 | "it uses your rate limit twice as fast as Opus and can only be used up to 50% of your weekly rate limit"（Fable 消耗速率是 Opus 两倍，且只能用到每周额度的50%） | Claude Code / Fable / Opus | [链接](https://x.com/joshmatz/status/2073060825879740740) | 是→做"Fable 5 额度机制拆解"科普：解释2倍速率+50%封顶，给出何时该切 Opus 的决策表 |
+| 低 | 封号风控/中转信任 | @Miaoooo000 / 2026-07-03 | "claude code无缘无故被封号，是时候转战codex了，搞了个k12的team，可以邀请子号" | Claude Code / Codex | [链接](https://x.com/Miaoooo000/status/2073060658829226400) | 是→承接"无故封号"焦虑：讲清合规的多号/团队方案与风险，避免踩灰产雷区 |
+| 低 | 封号风控 | @FutureIdiotH / 2026-07-03 | "理由是claude号被封了🥹又要养小google了" | Claude | [链接](https://x.com/FutureIdiotH/status/2073049328294224005) | 是→出"账号环境自查清单"，降低封号复发率（干净环境、不频繁切设备） |
+| 低 | 限额限流 | @DIDDY_MARXIST / 2026-07-03 | "I still have not been able to get a single response from fable. Every single response hits my usage limit in the first run."（一次回复都拿不到，每次首轮就撞上额度上限） | Claude / Fable | [链接](https://x.com/DIDDY_MARXIST/status/2073052899769200684) | 是→做"Fable 首轮就限额"排障贴，解释50%周额度机制并给替代方案 |
+| 低 | 限额限流 | @icepeak486 / 2026-07-03 | "codex 升级了吗？…在最后一个任务不断尝试，额度提醒空了都一个多小时了。我等着用fable呢" | Codex / Fable | [链接](https://x.com/icepeak486/status/2073066728612143605) | 是→承接"额度耗尽卡任务"痛点，提供额度监控+任务分批的省额度工作流 |
+| 低 | 限额限流 | @melowen / 2026-07-03 | "I just ran out of token for fable on my max 20x. I feel liberated (until tomorrow)"（Max 20x 上的 Fable token 用光了，直到明天才能再用） | Claude / Fable | [链接](https://x.com/melowen/status/2073057256749367315) | 是→连 Max 20x 都不够用的案例，做"重度用户额度攻略"内容 |
+| 低 | 限额限流 | @KhalidDevLog / 2026-07-03 | "the limit expires too quickly…I'm using opus, not fable…the limit expires unreasonably fast. What happened?@AnthropicAI" | Claude / Opus | [链接](https://x.com/KhalidDevLog/status/2073066148568973336) | 是→回应"Opus 额度也掉得快"疑问，出额度异常自查+客服申诉指引 |
+| 低 | 限额限流 | @irwiachen / 2026-07-03 | "Please reset the fable weekly limit."（连续多条@官方求重置 Fable 周额度） | Claude / Fable | [链接](https://x.com/irwiachen/status/2073057734870884425) | 是→承接"求重置额度"绝望用户，说明周额度不可手动重置，引导用便宜中转渡过 |
+| 低 | 费用高 | @sheriffayew / 2026-07-03 | "Fable is too expensive . I still use Opus and it's good" | Claude / Fable / Opus | [链接](https://x.com/sheriffayew/status/2073063479863320793) | 是→"Fable 太贵不如 Opus"观点承接，做两者性价比对比内容 |
+| 低 | 费用高 | @Snehal_W2608 / 2026-07-03 | "Fable is too expensive 😔" | Claude / Fable | [链接](https://x.com/Snehal_W2608/status/2073065944226914731) | 是→同上，低成本 Fable 平替/中转推荐 |
+| 低 | 限额限流/降智质量 | @TCNOco / 2026-07-03 | "Using the reset only does the weekly limit, pushes back the next refresh date to a full week from use... and does not refresh 5.3-Codex-Spark? Why?"（重置只作用周额度，还把刷新日推后整整一周，且不刷新 Codex-Spark） | Claude Code / Codex | [链接](https://x.com/TCNOco/status/2073065944411148506) | 是→拆解"重置反而延后刷新"的坑，出额度重置机制避坑指南 |
+
+### 今日三个选题
+1. **"$20 会员到底能问几次？Claude vs ChatGPT vs 中转 真实额度横评"**（用 @Newtalkinfo、@melowen、@DIDDY_MARXIST 的真实撞额度案例做引子，量化对比）→ X长文 + B站视频
+2. **"Fable 5 额度机制全拆解：2倍速率、50%周封顶、重置反而延后——附省额度工作流"**（承接 @joshmatz、@mretsal、@TCNOco）→ X长文
+3. **"被 Claude 秒封之后：Codex + DeepSeek 低成本替代栈搭建 + 账号环境自查清单"**（承接 @swahz7788、@Miaoooo000、@FutureIdiotH 封号焦虑）→ B站视频
+
+**实际检索覆盖到的最新时间点：** 2026-07-03 15:34 UTC
