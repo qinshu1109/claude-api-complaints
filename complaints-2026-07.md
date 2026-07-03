@@ -77,3 +77,30 @@ More in semantic search results.
 **实际检索覆盖到的最新时间点：** 2026-07-03 12:17 UTC
 
 只报可溯源真帖，每条必须有真链接。
+
+## 2026-07-03（周五）扫描 13 条 | 最新帖时间 13:49 UTC
+
+今日各分类条数统计：费用高 10 / 限额限流 8 / 封号风控 1 / 中转信任 1 / 其他 2
+
+| 信号 | 分类 | 作者/日期 | 原文 | 产品 | 链接 | cozai机会 |
+|------|------|-----------|------|------|------|-----------|
+| 高 | 费用高/限额限流 | @bridgemindai / 2026-07-03 | "I just bought my THIRD $200 Claude Max subscription. $600 a month... The weekly Fable 5 limit dies in about a day if you actually build with it... Anthropic did not fix the weekly limits. They tripled my bill."（买了第三个 $200 Claude Max、月花 $600；Fable 5 周额度真做项目一天就耗尽，Anthropic 没修限额反而把账单翻了三倍） | Claude Max / Fable 5 | [x.com](https://x.com/bridgemindai/status/2073040430401257844) | 是：重度用户额度焦虑+高消费，可承接按量中转/多账号额度池托管，省去"轮换 burner 账号"成本 |
+| 中 | 费用高/封号风控 | @lixinbao_X / 2026-07-03 | "阿里在内部已经全面禁止员工使用 Claude... 是因为费用太高？还是把员工当做模型训练员呢？"（阿里内部全面禁用 Claude，质疑是费用太高还是数据安全考量） | Claude | [x.com](https://x.com/lixinbao_X/status/2073020389106823263) | 是：企业禁用+费用质疑，可承接国产平替模型对比测评，定向企业降本/合规方案 |
+| 中 | 限额限流/费用高 | @0xJoveXu / 2026-07-03 | "但是我还没弄好，CodeX 的额度就用完了... 怕是钱还没赚到就花出去一堆钱了"（项目没做完 CodeX 额度已耗尽，担心钱还没赚就花出去了） | Codex | [x.com](https://x.com/0xJoveXu/status/2073015581109076192) | 是：额度见底焦虑，可承接额度监控+多模型中转切换，延长可用时长 |
+| 中 | 费用高/限额限流 | @0xfrankyun / 2026-07-03 | "Claude Fable 5... 社区吵最多的还是两个字：强 和 贵... 订阅额度有限 / 后续按 Usage Credits / Output Token 价格依旧肉疼"（Fable 5 强但贵，订阅额度有限、输出 token 价格肉疼） | Claude / Fable 5 | [x.com](https://x.com/0xfrankyun/status/2073032534573855226) | 是：贵+额度有限痛点明确，可承接多模型聚合中转（PK/横评）替代官方高价订阅 |
+| 中 | 限额限流 | @rtk17025 / 2026-07-03 | "太多人私信我 Codex 跟 Claude 额度很快就用完了"（大量用户反馈 Codex 与 Claude 额度很快用完，需借助 ccusage 监测 token 消耗） | Codex / Claude | [x.com](https://x.com/rtk17025/status/2073028389234250233) | 是：额度耗尽是普遍痛点，可承接额度监控工具+中转池降低单位成本 |
+| 中 | 费用高/限额限流 | @SigmaRayTive / 2026-07-03 | "GitHub Copilot's new AI Credits system... One task burned through roughly 30% of my monthly AI Credits... I hit the weekly limit after four days... otherwise I'd go broke."（新 AI Credits 体系一个任务烧掉 30% 月额度，四天就触顶周限额，再不换就破产） | GitHub Copilot / Codex | [x.com](https://x.com/SigmaRayTive/status/2073032793383403649) | 是：企业级额度焦虑，可承接 token 压缩+任务分级路由，减少 credits 消耗 |
+| 低 | 费用高/限额限流 | @sebastavar / 2026-07-03 | "It is expensive, but worth it... I am still barely staying within the usage limits."（贵但值，Max 计划下勉强卡在用量限额内） | Claude Max / Fable 5 | [x.com](https://x.com/sebastavar/status/2073022999624589725) | 是：卡限额边缘用户，可承接按量中转补足峰值用量 |
+| 低 | 费用高/限额限流/烧token | @rentierdigital / 2026-07-03 | "one vague task, entire monthly quota gone by lunch... Claude Code to fork 12 subagents... each subagent burning its own token share... on Fable 5's $10 per million input tokens, that math gets ugly fast."（一个模糊任务午饭前就烧光月额度，12 个子代理各烧 token，$10/M 输入算下来很快失控） | Claude Code / Fable 5 | [x.com](https://x.com/rentierdigital/status/2073039430995136615) | 是：子代理并发烧 token，可承接 token 压缩代理+子代理额度上限配置 |
+| 低 | 费用高/烧token/降智质量 | @jeff_behnke_ / 2026-07-03 | "what changes in Claude Code in the last 2 days... Opus is eating tokens like crazy... Sonnet, ate 20% in a single chat message loop... Claude Code was not burning tokens this fast previously."（近两天 Opus 疯狂吃 token，Sonnet 一轮对话烧掉 20%，烧 token 速度明显变快） | Claude Code / Opus / Sonnet | [x.com](https://x.com/jeff_behnke_/status/2073033926604361877) | 是：异常烧 token+质量疑虑，可承接 token 压缩与用量审计 |
+| 低 | 限额限流/降智质量 | @lzhy07743322 / 2026-07-03 | "Claude用不了（额度用完了没办法升级，信用卡用不了）。kimi不够智能。manus也不行。抓狂。"（Claude 额度用完无法升级、信用卡不可用，kimi 不够智能，manus 也不行，极度焦虑） | Claude / Kimi | [x.com](https://x.com/lzhy07743322/status/2073000339444494824) | 是：支付受限+额度用完+平替不满，可承接无需海外信用卡的中转订阅通道 |
+| 低 | 费用高/烧token | @qzxcle / 2026-07-03 | "Fable 5 is good but its token usage is crazy"（Fable 5 好用但 token 消耗疯狂） | Fable 5 | [x.com](https://x.com/qzxcle/status/2073039521248157754) | 是：token 消耗高，可承接压缩代理降低用量 |
+| 低 | 费用高 | @coinsonchain / 2026-07-03 | "Microsoft dumping Claude Code for GitHub Copilot CLI proves AI agents are still too expensive for real engineering teams. Your $2,000/engineer Claude bill is not productivity - it is a luxury tax."（微软弃用 Claude Code 证明 AI agent 对工程团队仍太贵，$2000/人月的 Claude 账单是奢侈税而非生产力） | Claude Code | [x.com](https://x.com/coinsonchain/status/2073023625960034552) | 是：企业级成本失控，可承接团队级中转+用量预算管控 |
+| 低 | 限额限流 | @yungui_ml / 2026-07-03 | "Codex是真大善人，用 Claude 每次最后的额度生怕任务跑不完，Codex 就没这个烦恼。"（用 Claude 总怕额度不够跑不完任务，转投 Codex 规避额度焦虑） | Claude / Codex | [x.com](https://x.com/yungui_ml/status/2073014988042621422) | 是：Claude 额度不够跑长任务，可承接长任务中转额度池 |
+
+### 今日三个选题
+1. **"买三个 Claude Max 才够用：Fable 5 额度一天见底、月账单 $600 的真实账本"** → 建议渠道：X 长文（拆解 Fable 5 周额度机制 + 中转/多账号池降本对比）
+2. **"Claude Code 子代理狂烧 token：一个模糊任务午饭前烧光月额度"** → 建议渠道：B 站视频（实测 Ultracode 子代理 token 消耗 + 压缩代理/额度上限实战）
+3. **"企业 AI 账单失控：从 GitHub Copilot 新 Credits 体系到 $2000/人月 Claude 账单"** → 建议渠道：X 长文（汇总企业限流/降本案例，引出团队级中转+预算管控方案）
+
+**实际检索覆盖到的最新时间点：** 2026-07-03 13:49 UTC
