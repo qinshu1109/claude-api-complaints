@@ -55,3 +55,25 @@ More in semantic search results.
 **实际检索覆盖到的最新时间点：** 2026-07-03 20:13 CST
 
 只报可溯源真帖，每条必须有真链接。
+
+## 2026-07-03（周五）扫描 6 条 | 最新帖时间 12:17 UTC
+
+今日各分类条数统计：费用高 3 / 限额限流 4 / 封号风控 0 / 中转信任 1 / 其他 0
+
+| 信号 | 分类 | 作者/日期 | 原文 | 产品 | 链接 | cozai机会 |
+|------|------|-----------|------|------|------|-----------|
+| 中 | 限额限流 | @Mostafaa4ng / 2026-07-03 | I've reached my limit Time to subscribe to Claude Pro (达到限额，需订阅Pro) | Claude | https://x.com/Mostafaa4ng/status/2073017537323778542 | 是→推广Pro订阅或限额提醒服务 |
+| 中 | 限额限流 | @Linsy96 / 2026-07-03 | run out of usage limit.... so need to wait till it resets (Claude使用限额耗尽需等待重置) | Claude | https://x.com/Linsy96/status/2073017504520110225 | 否 |
+| 高 | 限额限流 | @mydream2025 / 2026-07-03 | 以前都是claude修改代码...结果刚刚fable5自己把代码改了，自己跑测试去了，特么的，我额度啊 (Fable5自主执行烧额度) | Fable 5 | https://x.com/mydream2025/status/2073017351533215804 | 是→额度监控 + 自动暂停工具 |
+| 中 | 限额限流/中转 | @ivensliao007 / 2026-07-03 | 出 Claude Max 速刷账号 198 元... Fable5 额度已用光 (Fable5额度用光转售) | Claude Max / Fable 5 | https://x.com/ivensliao007/status/2073016198741258613 | 是→可靠中转服务 |
+| 中 | 限额限流 | @0xJoveXu / 2026-07-03 | CodeX 的额度就用完了 怕是钱还没赚到就花出去一堆钱了 (Codex额度快速用完) | Codex | https://x.com/0xJoveXu/status/2073015581109076192 | 是→成本优化方案 |
+| 中 | 费用高/限额 | @alphinctom / 2026-07-03 | guardrails and rate limits are nerfing it. (Fable 5限额和guardrails问题) | Fable 5 | https://x.com/alphinctom/status/2073016673079009417 | 是→优化中转或替代 |
+
+### 今日三个选题
+1. **Fable5自主agent烧额度痛点** → B站视频演示高效workflow。
+2. **个人用户额度快速耗尽案例** → X长文分享节省技巧。
+3. **中转/速刷账号需求** → 推广稳定代理服务。
+
+**实际检索覆盖到的最新时间点：** 2026-07-03 12:17 UTC
+
+只报可溯源真帖，每条必须有真链接。
