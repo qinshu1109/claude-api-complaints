@@ -104,3 +104,30 @@ More in semantic search results.
 3. **"企业 AI 账单失控：从 GitHub Copilot 新 Credits 体系到 $2000/人月 Claude 账单"** → 建议渠道：X 长文（汇总企业限流/降本案例，引出团队级中转+预算管控方案）
 
 **实际检索覆盖到的最新时间点：** 2026-07-03 13:49 UTC
+
+## 2026-07-03（周五）扫描 12 条 | 最新帖时间 15:08 UTC
+
+今日各分类条数统计：费用高 5 / 限额限流 6 / 封号风控 2 / 中转信任 0 / 其他 1
+
+| 信号 | 分类 | 作者/日期 | 原文 | 产品 | 链接 | cozai机会 |
+|------|------|-----------|------|------|------|-----------|
+| 中 | 限额限流 | @10xRahul_ / 2026-07-03 | "I ran out of my weekly codex limit in 3 days 🙂 Me doing things manually now"（Codex 周限额 3 天就用完，只能改用手工） | Codex | [x.com](https://x.com/10xRahul_/status/2073058518345941105) | 是：周限额焦虑用户，可承接 Codex/Claude 多账号池+用量预警 |
+| 中 | 费用高/限额限流 | @Newtalkinfo / 2026-07-03 | "同样 20 美元的会员，claude 额度是最少的，真的是随便两个问题就完了，ChatGPT 反而能撑很久" | Claude / ChatGPT | [x.com](https://x.com/Newtalkinfo/status/2073053057072714086) | 是：同价位额度对比劣势，可承接按量中转补足 Claude 峰值 |
+| 中 | 费用高/封号风控 | @swahz7788 / 2026-07-03 | "Claude 太高贵了。自从 2023 年被封号以后，我就没再用过。...刚上去就被秒封。...现在 Codex + DeepSeek + Antigravity 已经够我继续冲第二篇 SCI 论文了" | Claude / Codex / DeepSeek | [x.com](https://x.com/swahz7788/status/2073046193979216253) | 是：贵+秒封双重痛点，可承接稳定中转通道替代反复养号 |
+| 中 | 费用高 | @Sebrock1972 / 2026-07-03 | "@antonpme ...even the strategy and architecture pieces with the occasional Fable doing the fixing is expensive and can be upwards of $100 a day depending on usage... that 1/4 unsubsidized is still expensive."（即使用法优化，Fable 架构类任务仍可达 $100/天，未补贴部分依旧很贵） | Fable 5 / Claude Code | [x.com](https://x.com/Sebrock1972/status/2073060623785558379) | 是：按量计费失控，可承接 token 压缩+任务分级路由降本 |
+| 中 | 费用高/限额限流 | @morganlinton / 2026-07-03 | "Fable High is very expensive for a reason... wasting that thinking depth on anything that isn't the hardest 1% - 5% of stuff just means you'll burn through your limits and waste money"（Fable High 极贵，非最难任务也会快速烧穿限额浪费钱） | Fable 5 | [x.com](https://x.com/morganlinton/status/2073061411035783509) | 是：高阶模型滥用烧额度，可承接智能模型路由+额度上限配置 |
+| 低 | 封号风控/限额限流 | @Miaoooo000 / 2026-07-03 | "claude code无缘无故被封号，是时候转战codex了，搞了个k12的team，可以邀请子号，额度不够用的可以试试" | Claude Code / Codex | [x.com](https://x.com/Miaoooo000/status/2073060658829226400) | 是：无故封号+额度不足，可承接团队额度池与风控隔离方案 |
+| 低 | 限额限流/降智质量 | @alpharh0 / 2026-07-03 | "Claude Fable 5 Extra High is completely useless... after 10 minutes it compacted its context, switched to Opus 4.8 High and then hit the tool-use limit. Useless"（Fable 5 Extra High 无用，10 分钟后压缩上下文、降级后仍触达 tool-use 上限） | Fable 5 / Opus 4.8 | [x.com](https://x.com/alpharh0/status/2073059874120794428) | 是：高阶模型+工具限额双失败，可承接降级路由与长任务拆分 |
+| 低 | 限额限流 | @melowen / 2026-07-03 | "I just ran out of token for fable on my max 20x. I feel liberated (until tomorrow)"（Max 20x 订阅下 Fable token 已用完，等到明天重置） | Fable 5 / Claude Max | [x.com](https://x.com/melowen/status/2073057256749367315) | 是：Max 高阶订阅仍易触顶，可承接峰值中转池 |
+| 低 | 限额限流 | @srini_bala / 2026-07-03 | "@anshuc @polygrafix $20/ month plan. Tried something on fable 5. The regular limit expires 🤣"（$20/月套餐试 Fable 5，常规定额很快用完） | Fable 5 | [x.com](https://x.com/srini_bala/status/2073060582438416462) | 是：低价套餐+Fable 配额不匹配，可承接按量补足 |
+| 低 | 费用高/降智质量 | @naymur_dev / 2026-07-03 | "Fable 5: expensive but didn't help much with UX... OS really beats Fable on pricing & UI at the same time"（Fable 5 贵且 UX 帮助不大，开源模型更便宜且 UI 更好） | Fable 5 / DeepSeek / GLM 5.2 | [x.com](https://x.com/naymur_dev/status/2073059979834331206) | 是：高价低 ROI，可承接性价比模型路由与 A/B 评测 |
+| 低 | 费用高 | @deforestpeg / 2026-07-03 | "cant really afford to burn credits on the oss models so i just stick to the subscriptions"（烧不起 OSS 模型 credits，只能死守订阅） | Claude / Codex | [x.com](https://x.com/deforestpeg/status/2073056724970307978) | 是：订阅+按量两难，可承接固定月费中转套餐 |
+| 低 | 费用高 | @mohittwwt / 2026-07-03 | "@tejashaveridev Cursor is expensive on API pricing"（Cursor 按 API 计价很贵） | Cursor | [x.com](https://x.com/mohittwwt/status/2073047693623275877) | 是：Cursor API 计价痛点，可承接自带 Key 的中转降本 |
+
+### 今日三个选题
+1. **"同样 $20 会员，Claude 额度最少：两个问题就见底"** → 建议渠道：X 长文（横向对比 Claude/ChatGPT/Cursor 同价位额度 + 中转补足方案）
+2. **"Codex 周限额 3 天用完：重度用户的手动回退时刻"** → 建议渠道：B 站视频（实测 Codex 周限额消耗曲线 + 多账号/中转续命）
+3. **"Fable 5 贵到 $100/天：即使用法优化，未补贴部分依旧肉疼"** → 建议渠道：X 长文（拆解 Fable 按量成本 + token 压缩/模型分层实战）
+
+**实际检索覆盖到的最新时间点：** 2026-07-03 15:08 UTC
+
