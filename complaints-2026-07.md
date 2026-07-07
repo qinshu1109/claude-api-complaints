@@ -44,3 +44,23 @@
 3. **中转代理的信任与区块链验证** → 分享cozai安全中转方案视频
 
 **实际检索覆盖到的最新时间点：** 2026-07-07 12:05 UTC
+
+## 2026-07-07（周二）扫描 6 条 | 最新帖时间 12:10 UTC
+
+今日各分类条数统计：费用高 3 / 限额限流 2 / 封号风控 1 / 中转信任 0 / 其他 0
+
+| 信号 | 分类 | 作者/日期 | 原文 | 产品 | 链接 | cozai机会 |
+|------|------|-----------|------|------|------|-----------|
+| 低 | 限额限流 | @Tegzy42 / 2026-07-07 | When you hit your Claude session limit right in the middle of a serious project | Claude | https://x.com/Tegzy42/status/2074465925185622129 | 是 - 推广会话管理或中转切换工具 |
+| 中 | 费用高 | @quentinbdb / 2026-07-07 | Fables model on @cursor_ai is suddenly costing way more 🥲 Trying to fix the last things for @fairmints is becoming costly asf 😵 | Cursor, Fable | https://x.com/quentinbdb/status/2074465418400379007 | 是 - 推广成本监控和优化策略 |
+| 中 | 限额限流 / 费用高 | @blackanger / 2026-07-07 | claude code 额度到达了，代码写了一半。。。codex 通过 mempal 无缝交接，就是这么丝滑 | Claude Code, Codex | https://x.com/blackanger/status/2074465091093938239 | 是 - 推广mempal-like无缝切换方案 |
+| 低 | 封号风控 | @li_wujie / 2026-07-07 | claude 在坚持了两年之后，还是被封号了，前端设计、ui 设计方面，有比较好的平替模型推荐么 | Claude | https://x.com/li_wujie/status/2074459095877448182 | 是 - 推荐平替模型和封号规避 |
+| 中 | 费用高 | @mattpocockuk / 2026-07-07 | Here's a step-by-step process to kill all the bloat from your Claude Code system prompt... Down to a clean 13K tokens | Claude Code | https://x.com/mattpocockuk/status/2074464823232888987 | 是 - 推广prompt优化减少token消耗 |
+| 低 | 费用高 | @0xTimovo / 2026-07-07 | 现在有中转站能做到 18.8 倍暴击 fable5 吗？刚刚用完了所有的 fable5 用量... | Fable 5 | https://x.com/0xTimovo/status/2074464380289515987 | 是 - 推广高性价比中转服务 |
+
+### 今日三个选题
+1. **Claude/Cursor Fable模型成本突然上升和限额中断项目** → X长文或B站演示成本控制技巧
+2. **封号后寻找UI设计平替** → 视频推荐开源或平价替代模型
+3. **Claude Code系统prompt bloat导致高token消耗** → 分享优化proxy和settings工具
+
+**实际检索覆盖到的最新时间点：** 2026-07-07 12:10 UTC
