@@ -64,3 +64,25 @@
 3. **Claude Code系统prompt bloat导致高token消耗** → 分享优化proxy和settings工具
 
 **实际检索覆盖到的最新时间点：** 2026-07-07 12:10 UTC
+
+## 2026-07-07（周二）扫描 8 条 | 最新帖时间 12:20 UTC
+
+今日各分类条数统计：费用高 3 / 限额限流 4 / 封号风控 1 / 中转信任 0 / 其他 0
+
+| 信号 | 分类 | 作者/日期 | 原文 | 产品 | 链接 | cozai机会 |
+|------|------|-----------|------|------|------|-----------|
+| 中 | 限额限流 | @InForTheFun_ / 2026-07-07 | Fable is great, but ... putting Fable in the same token limit as the other models. Basically 3-4 messages with Fable and poof no more ANY Claude for you for hours. Super low. (Fable占用同token限额，其他模型也很快耗尽) | Claude Fable | https://x.com/InForTheFun_/status/2074468116717769009 | 是 - 推广多模型路由或限额监控 |
+| 中 | 限额限流 | @phuakuanyu / 2026-07-07 | turns out the "safety risk" isn't cyber. it's a guy who ran opus for 2 years, fires up ultracode the same way, and nukes his whole limit in one prompt. (一prompt耗尽限额) | Claude Ultracode / Opus | https://x.com/phuakuanyu/status/2074467905912389989 | 是 - 推广prompt优化和用量控制工具 |
+| 低 | 限额限流 | @SFdevelop747 / 2026-07-07 | 5% of the weekly quota today is equal to 50% of the 5 hour quota in Codex. Model 5.4 WTF how to work? (额度消耗不一致) | Codex / OpenAI | https://x.com/SFdevelop747/status/2074467528214970814 |  |
+| 中 | 限额限流 / 费用高 | @ramnathmur / 2026-07-07 | Running through my Fable quota : last 5 hours (5小时内耗尽Fable额度) | Fable | https://x.com/ramnathmur/status/2074467299684413721 | 是 - 推广高效使用或中转 |
+| 中 | 限额限流 | @ArvenN95340 / 2026-07-07 | 你们的Codex额度有出现过凭空蒸发的情况吗？？ (额度无故消失) | Codex | https://x.com/ArvenN95340/status/2074464687438369141 | 是 - 推广额度监控工具 |
+| 低 | 其他 | @SLiangD / 2026-07-07 | codex这阵子降智很明显，总是犯错，真是服了 (降智) | Codex | https://x.com/SLiangD/status/2074452784175571450 |  |
+| 中 | 费用高 | @0xTimovo / 2026-07-07 | 现在有中转站能做到 18.8 倍暴击 fable5 吗？刚刚用完了所有的 fable5 用量，我是 max 套餐，一半就是 100 刀，如果走 api 等于 1886 刀 (Fable用量贵) | Fable 5 | https://x.com/0xTimovo/status/2074464380289515987 | 是 - 推广平替中转服务 |
+| 低 | 限额限流 | @XiaoTian258 / 2026-07-07 | A\xe8\没额度了 用了一天5.5; 真的赶上5.6了吗? (额度用完) | Claude / Codex | https://x.com/XiaoTian258/status/2074451280324673726 | 是 - 分享额度管理经验 |
+
+### 今日三个选题
+1. **Claude Fable 模型限额快速耗尽，用户频繁中断** → X长文分享使用优化技巧
+2. **Codex额度异常蒸发和消耗不均** → B站视频演示监控工具
+3. **Fable高用量成本与中转需求** → 推广可靠中转平替
+
+**实际检索覆盖到的最新时间点：** 2026-07-07 12:20 UTC
