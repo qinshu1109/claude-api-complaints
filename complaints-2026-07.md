@@ -1,17 +1,19 @@
 
 
-## 2026-07-10（周五）扫描 2 条 | 最新帖时间 2026-07-10 11:52 UTC
+## 2026-07-10（周五）扫描 4 条 | 最新帖时间 2026-07-10 12:20 UTC
 
-今日各分类条数统计：费用高 0 / 限额限流 2 / 封号风控 0 / 中转信任 0 / 其他 0
+今日各分类条数统计：费用高 1 / 限额限流 2 / 封号风控 1 / 中转信任 0 / 其他 0
 
 | 信号 | 分类 | 作者/日期 | 原文 | 产品 | 链接 | cozai机会 |
 |------|------|-----------|------|------|------|-----------|
-| 中 | 限额限流 | @nubekonHQ / 2026-07-10 | I think Anthropic already suspended the 50% more usage limit what they intended to stay upto 12 july... claude code now feels like unusable, one prompt eats upto 10-15% of the 5 hour usage window.... earlier it was preety much decent... | Claude Code | https://x.com/nubekonHQ/status/2075548837503185219 | 是 - 推广使用优化或可靠中转服务以稳定使用 |
-| 中 | 限额限流 | @Jeremybtc / 2026-07-09 | I waited 4 days for my Claude usage to reset It reset today and maybe 2-3 fable 5 prompts has eaten more than 20% max usage and i've already hit my session limit AI is INSANE when it comes to doing literally anything for you but the most expensive models compound in cost fast and usage becomes limted quickly I would actually pay for more usage if I could | Claude / Fable 5 | https://x.com/Jeremybtc/status/2075319617866678516 | 是 - 推广更高额度替代方案或优化工具 |
+| 中 | 限额限流 / 费用高 | @Tao100086 / 2026-07-10 | 我意识到...被token的限额所绑架...我也将取消claude的20x的订阅。 | Claude / Fable 5 | https://x.com/Tao100086/status/2075546460117246067 | 是 - 推广可靠中转或成本优化方案帮助用户稳定开发节奏 |
+| 低 | 封号风控 | @supezen / 2026-07-10 | Claude 用户有多可怜？每次收到 Claude 邮件都心头一惊，不会封我号了吧😂 | Claude | https://x.com/supezen/status/2075553995905802551 | 是 - 提供反封号中转服务或账号管理建议 |
+| 低 | 限额限流 | @lily11955 / 2026-07-10 | claude封号，新模型token太贵 | Claude | https://x.com/lily11955/status/2075546329766662255 | 是 - 推荐平替或中转降低成本风险 |
+| 中 | 费用高 | @thibault_mthh / 2026-07-10 | The only issue is fact that models are billed at api rate, it get super expensive really fast | Claude API | https://x.com/thibault_mthh/status/2075555008800518592 | 是 - 推广API成本优化工具或中转 |
 
 ### 今日三个选题
-1. **Claude Code使用窗口快速消耗** → X长文分享prompt优化技巧
-2. **Fable 5限额快速用尽** → B站视频演示成本管理
-3. **用户对更多使用量的需求** → 讨论中转或订阅升级痛点
+1. **Claude用户被token限额绑架** → X长文或B站视频分享开发节奏管理
+2. **封号焦虑与新模型费用** → 讨论中转平替解决方案
+3. **API计费快速昂贵** → 推荐成本控制策略
 
-**实际检索覆盖到的最新时间点：** 2026-07-10 12:00 UTC
+**实际检索覆盖到的最新时间点：** 2026-07-10 12:20 UTC
