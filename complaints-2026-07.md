@@ -22,3 +22,22 @@
 
 **实际检索覆盖到的最新时间点：** 2026-07-11 12:04 UTC
 
+## 2026-07-12（周日）扫描 6 条 | 最新帖时间 2026-07-12 12:10 UTC
+
+今日各分类条数统计：费用高 1 / 限额限流 4 / 封号风控 0 / 中转信任 0 / 其他 1
+
+| 信号 | 分类 | 作者/日期 | 原文 | 产品 | 链接 | cozai机会 |
+|------|------|-----------|------|------|------|-----------|
+| 低 | 限额限流 | @xgouoo / 2026-07-12 | Can you change the current Codex usage limit to a dynamic recovery system instead of making users wait helplessly after the quota is exhausted? (希望Codex额度动态恢复，而不是用完后无奈等待) | Codex | https://x.com/xgouoo/status/2076277986651947263 | 是 - 推广智能额度管理工具或中转 |
+| 低 | 限额限流 | @KimvonDaniken / 2026-07-12 | At this rate I can't use weekly Fable limit What should I do? (这样下去用不完每周Fable额度，该怎么办？) | Fable | https://x.com/KimvonDaniken/status/2076276680050491578 | 是 - 推广高效使用或替代方案 |
+| 低 | 限额限流 | @AKSHAYBHOPANI / 2026-07-12 | This video was edited in @Palmier_io by @claudeai Fable 5. It took 30 mins for the edit and took 60% of my weekly limit 🤯 (用Fable 5编辑视频30分钟占周额度60%) | Fable | https://x.com/AKSHAYBHOPANI/status/2076275467100078404 | 是 - 展示视频编辑优化降低消耗 |
+| 低 | 限额限流 | @sangwan2001 / 2026-07-12 | ... burned through my 5-hour Codex limit instantly. Cap agent fan-out first 😅 (代理fan-out瞬间烧完5小时Codex额度) | Codex | https://x.com/sangwan2001/status/2076275355305095219 | 是 - 推荐代理优化配置避免过度消耗 |
+| 低 | 其他 | @noppefoxwolf / 2026-07-12 | Codexのgoalは結構残業してくれてお得な感じがする。Weekly Limit食ってる説はあるけど (Codex goal很划算但可能吃周限) | Codex | https://x.com/noppefoxwolf/status/2076276745440006532 | 否 |
+| 低 | 费用高 | @raragon171 / 2026-07-12 | anthropic现在给cursor的价格比直接用anthropic自己的api贵75% (Anthropic给Cursor的价格比官方API贵75%) | Cursor / Claude API | https://x.com/raragon171/status/2076269829515088281 | 是 - 推广直接API或中转节省成本 |
+
+### 今日三个选题
+1. **Codex/Fable额度快速消耗** → X长文或B站演示高效prompt/代理设置
+2. **Cursor vs Anthropic API 定价差异** → 对比分析长文
+3. **代理fan-out导致额度爆炸** → 技术优化视频教程
+
+**实际检索覆盖到的最新时间点：** 2026-07-12 12:10 UTC
